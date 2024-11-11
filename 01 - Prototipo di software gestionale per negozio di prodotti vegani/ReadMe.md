@@ -13,5 +13,7 @@ Il programma, inoltre, doveva essere permanente e i dati inseriti dovevano esser
 
 ## Tecnologie utilizzate
 🐍 Python per il codice
+
 📔 Jupiter Notebook per la stesura del notebook
+
 🤝 Google Colaboratory per la revisione
