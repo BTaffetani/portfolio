@@ -9,9 +9,8 @@ Il portfolio sarà aggiornato prossimamente con i progetti a cui ho lavorato e s
 
 ## Una guida alla consultazione
 Ogni cartella contiene:
-- Un ReadMe dove è riassunto l'obiettivo del progetto, le tecnologie utilizzate e un link a un post sul mio sito in cui spiego nel dettaglio le varie fasi.
-- Una sottocartella dedicata a ogni fase del progetto (soprattutto se sono state utilizzate più tecnologie).
-- Eventuali immagini e screenshot a supporto del progetto.
+- Un ReadMe dove è riassunto l'obiettivo del progetto, le tecnologie utilizzate e un link a un post sul mio sito in cui spiego nel dettaglio le varie fasi;
+- I file dedicati al progetto, eventualmente divisi in sottocartelle nel caso di utilizzo di più tecnologie.
 
 ## Nota all'utilizzo
 Il contenuto di questa repository è indirizzato ai recruiter allo scopo di mostrare nella pratica le mie competenze. Ogni utilizzo al di fuori di questo scopo è da considerarsi non autorizzato.
