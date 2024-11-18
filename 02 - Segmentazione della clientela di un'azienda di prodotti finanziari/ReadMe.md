@@ -11,8 +11,13 @@ Al notebook relativo al progetto si aggiungono i seguenti file:
 - La cartella *output_data* in cui sono contenuti i file CSV creati nel corso del progetto.
 
 ## Tecnologie utilizzate
+
 🐍 Python per il codice
+
 🐼 Pandas per l'importazione e la gestione dei dati
+
 🤖 Scikit-Learn per il modello
+
 📔 Jupyter Notebook per il progetto
+
 🤝 Google Colaboratory per la revisione
