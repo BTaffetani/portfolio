@@ -4,7 +4,7 @@ Il progetto riguarda un'attività di segmentazione della clientela di un'azienda
 
 ## Specifiche
 
-Il progetto simulava la richiesta da parte di un'azienda di creare un modello per segmentare la clientela a partire dai dati forniti, analizzando sia i dati forniti che il modello ottenuto.
+Il progetto simulava la richiesta da parte di un'azienda di creare un modello per segmentare la clientela a partire da un file fornito con i dati dei loro clienti, analizzando sia la tabella di partenza che il modello ottenuto.
 
 Al notebook relativo al progetto si aggiungono i seguenti file:
 - Il file CSV *credit_card_customers.csv*, creato da ProfessionAI e su cui si basa il progetto;
