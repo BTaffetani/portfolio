@@ -11,4 +11,10 @@ Oltre al notebook del progetto, è presente una sottocartella *data* così compo
 
 ## Tecnologie utilizzate
 
-💪 PowerBI Desktop per la produzione del report
+🐍 Python per la scrittura del codice
+
+🤝 Google Colab per la stesura del progetto
+
+🐼 Pandas per l'importazione e la pulizia dei dati
+
+🍲 BeautifulSoup per l'importazione dei dati
